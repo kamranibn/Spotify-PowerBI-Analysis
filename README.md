@@ -39,5 +39,5 @@ and Many other a lot of insights
 
 This Power BI dashboard provides an interactive view of the Spotify dataset, allowing users to explore music trends by artist, year, album type, and popularity metrics. It offers both summary metrics and detailed visual insights into the dynamics of modern music streaming.
 
-Screenshot/Demo
-https://github.com/kamranibn/Spotify-PowerBI-Analysis/blob/main/Spotify%20Dashboard%20screenshot.png
+Screenshot/Dem0
+(https://github.com/kamranibn/Spotify-PowerBI-Analysis/blob/main/Spotify%20Dashboard%20screenshot.png)
